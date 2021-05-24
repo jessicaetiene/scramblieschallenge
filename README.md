@@ -26,7 +26,7 @@ Please pay attention to tests, code readability and error cases.
 Make sure you have Clojure installed.
 
 ```
-$ git clone https://github.com/heroku/clojure-getting-started.git
+$ git clone https://github.com/jessicaetiene/scramblieschallenge.git
 $ cd scramblieschallenge
 
 lein ring server
