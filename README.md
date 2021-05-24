@@ -21,3 +21,14 @@ Create a UI in ClojureScript with two inputs for strings and a scramble button. 
 ### Notes
 Please pay attention to tests, code readability and error cases.
 
+# Running Locally
+
+Make sure you have Clojure installed.
+
+```
+$ git clone https://github.com/heroku/clojure-getting-started.git
+$ cd scramblieschallenge
+
+lein ring server
+
+```
